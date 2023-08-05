@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Jayhan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## I'm Jayhan Alnofli <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Jayhan Alnofli a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UClEiYw_0SGwrgCchbRwbV-Q). I Spend most of time coding outstanding projects or recording tutorials.
 
@@ -14,7 +14,7 @@ I'm Jayhan Alnofli a Full Stack Web Developer and Content Creator on [Youtube](h
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 looking   to collaborate on test | programming code.
 - 📫 How to reach me: Alnoflijihan@gmail.com.
-- 😄 Pronouns: CoderOne, Jehan-1, AI.
+- 🏷️ How to reach me through my linkedin page:|| https://www.linkedin.com/in/jayhan-alnoufli-4651a0210/.
 - ⚡ Fun fact: I am very passionte Person who love coding.
 
 #### Top Technologies
